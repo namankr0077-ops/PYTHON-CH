@@ -1,0 +1,3 @@
+and:-  true if both operator are true else false.
+or:-   true if at least one operand is true or else false.
+not:-  inverts true to false & false to true.
